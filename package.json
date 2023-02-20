@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is our realtime pizza app",
   "main": "index.js",
-  "author": "Our group project",
+  "author": "Diptomoy, Shaspa,Rahul,Samrat",
   "scripts": {
     "dev": "nodemon server.js",
     "serve": "node server.js",
